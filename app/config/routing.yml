@@ -1,0 +1,5 @@
+thunderbot_user:
+    resource: "@ThunderbotUserBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
